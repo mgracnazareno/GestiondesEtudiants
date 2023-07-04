@@ -5,8 +5,7 @@ Avant d’accéder à son application, l’agent doit d’abord se loguer avec u
 Cet agent a le droit a trois tentatives erronées, sinon le programme quitte l’application.
 Si le login est bon, le menu suivant sera affiché à l’agent :
 
-![Picture1]
-(https://github.com/mgracnazareno/GestiondesEtudiants/assets/47845955/175ac334-f922-4513-969c-0aecb993e292)
+![Picture1](https://github.com/mgracnazareno/GestiondesEtudiants/assets/47845955/daf86509-ba3f-4d43-8f29-35dec016e61d)
 
 ### Règles de fonctionnement:
 1.	L’option 1: permet d’inscrire un nouvel étudiant dans la liste des étudiants, suivant le modèle suivant :
