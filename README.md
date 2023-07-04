@@ -16,13 +16,13 @@ le nom d’utilisateur de l’étudiant, ce nom doit être composé des 3 premi�
 -	Stockez ces étudiants dans un tableau statique à deux dimensions.
 1.	L’option 2 : Permet d’afficher tous les étudiants de la liste, si la liste est vide afficher un message suivant : il n’y a aucun étudiant dans la liste
 1.	L’option 3 permet de faire une recherche en fournissant l’identifiant de l’étudiant, grâce à cette information le programme doit afficher toutes les informations de cet étudiant.
-4-	L’option 4 : Quitter le programme avec un message de confirmation.
+1.-	L’option 4 : Quitter le programme avec un message de confirmation.
  	
 ### Consignes :
 1.-	L’identifiant de l’étudiant lors de l’inscription doit être unique, sinon redemander à l’agent de saisir un identifiant valide.
-2.-	Appelez une méthode qui permet de faire la validation de l’id.
-3.-	Utilisez la structure switch case afin de choisir les options.
-4.-	Chaque option appelle une méthode.
-5.-	L’affichage de la liste des étudiants doit être sous forme de matrice
-6.-	Faites les validations de type et de valeurs nécessaires.
-7.-	A chaque fin de tache réaffichez le menu afin que l’utilisateur puisse choisir une autre option.
+1.-	Appelez une méthode qui permet de faire la validation de l’id.
+1.-	Utilisez la structure switch case afin de choisir les options.
+1.-	Chaque option appelle une méthode.
+1.-	L’affichage de la liste des étudiants doit être sous forme de matrice
+1.-	Faites les validations de type et de valeurs nécessaires.
+1.-	A chaque fin de tache réaffichez le menu afin que l’utilisateur puisse choisir une autre option.
