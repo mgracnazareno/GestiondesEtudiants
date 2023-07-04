@@ -19,10 +19,10 @@ le nom d’utilisateur de l’étudiant, ce nom doit être composé des 3 premi�
 4-	L’option 4 : Quitter le programme avec un message de confirmation.
  	
 ### Consignes :
-⋅⋅1-	L’identifiant de l’étudiant lors de l’inscription doit être unique, sinon redemander à l’agent de saisir un identifiant valide.
-⋅⋅2-	Appelez une méthode qui permet de faire la validation de l’id.
-⋅⋅3-	Utilisez la structure switch case afin de choisir les options.
-⋅⋅4-	Chaque option appelle une méthode.
-⋅⋅5-	L’affichage de la liste des étudiants doit être sous forme de matrice
-⋅⋅6-	Faites les validations de type et de valeurs nécessaires.
-⋅⋅7-	A chaque fin de tache réaffichez le menu afin que l’utilisateur puisse choisir une autre option.
+1.-	L’identifiant de l’étudiant lors de l’inscription doit être unique, sinon redemander à l’agent de saisir un identifiant valide.
+2.-	Appelez une méthode qui permet de faire la validation de l’id.
+3.-	Utilisez la structure switch case afin de choisir les options.
+4.-	Chaque option appelle une méthode.
+5.-	L’affichage de la liste des étudiants doit être sous forme de matrice
+6.-	Faites les validations de type et de valeurs nécessaires.
+7.-	A chaque fin de tache réaffichez le menu afin que l’utilisateur puisse choisir une autre option.
